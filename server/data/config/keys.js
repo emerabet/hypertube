@@ -1,0 +1,21 @@
+module.exports = {
+    googleClientID : '',
+    googleClientSecret : '',
+    facebookClientID : '',
+    facebookClientSecret :'',
+    githubClientID : '',
+    githubClientSecret: '',
+    fortytwoClientID : '',
+    fortytwoClientSecret : '',
+    twitterClientID : '',
+    twitterClientSecret : '',
+    linkedinClientID: '',
+    linkedinClientSecret:'',
+    jwtSecret: 'myfavoritemovie',
+    sessionSecret: 'myfavoritesession',
+    CLOUDINARY_API_KEY: '',
+    CLOUDINARY_API_SECRET: '',
+    CLOUD_NAME: '',
+    OMDB_API_KEY: '',
+    TMDB_API_KEY: ''
+}
